@@ -54,6 +54,9 @@ Carthage/Build/
 Dependencies/
 .accio/
 
+# VoiceInk build dependencies
+VoiceInk-Dependencies/
+
 # fastlane
 #
 # It is recommended to not store the screenshots in the git repo.
